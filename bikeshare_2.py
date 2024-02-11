@@ -26,7 +26,7 @@ def get_filters():
     def cityname():
         city = str(input('Type the city name you would like to explore:').lower())
         if city not in citynames:
-            print('\nWrong input: Please select correct city among Chicago, New York City or Washington.\n')
+            print('\nWrong input: Please select correct city name among Chicago, New York City or Washington.\n')
             city = cityname()
         return city
     city = cityname()
