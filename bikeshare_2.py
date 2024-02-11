@@ -187,7 +187,7 @@ def user_stats(df,city):
         count_user_gender = df['Gender'].value_counts()
         print('Total Counts of user Gender type are {}.'.format(count_user_gender))
     else:
-        print("Notice:'Gender' column is not found")
+        print("Notice:'Gender' column is not found or not exist")
 
 
     # Display earliest, most recent, and most common year of birth
