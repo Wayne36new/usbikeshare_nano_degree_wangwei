@@ -16,9 +16,11 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
 update 2nd time 
 
 update 3rd time
+
+Update the readme for the 3rd step:Additional changes to documentation, to simulate other members of the team making changes to the documentation
 
